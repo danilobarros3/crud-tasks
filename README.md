@@ -36,7 +36,7 @@ npm install
 ```
 3. Execute o projeto:
 ```bash
-npm run dev
+npm start
 ```
 4. Post no banco de dados:
 <img width="1392" alt="Screenshot 2024-09-05 at 22 32 24" src="https://github.com/user-attachments/assets/d1106f25-4529-455c-9f9e-592530101d68">
