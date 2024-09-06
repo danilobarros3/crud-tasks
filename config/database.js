@@ -8,7 +8,7 @@ const sequelize = new Sequelize('backend', 'root', 'root1234', {
 
 module.exports = sequelize;
 
-const connectDatabase = async () => {
+const connectDataBaseSql = async () => {
     try {
         await sequelize.authenticate();
     } catch (error) {
@@ -16,6 +16,6 @@ const connectDatabase = async () => {
     }
 };
 
-connectDatabase();
+connectDataBaseSql();
 
 module.exports = sequelize;
