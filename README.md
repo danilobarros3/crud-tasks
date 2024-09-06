@@ -28,6 +28,16 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina as seguintes fe
 1. Clone o repositório do projeto:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/seu-usuario/crud-tasks.git
+
+2. Instale as dependências:
+```bash
+npm install
+```
+3. Execute o projeto:
+```bash
+npm run dev
+```
+4. Post no banco de dados:
 <img width="1392" alt="Screenshot 2024-09-05 at 22 32 24" src="https://github.com/user-attachments/assets/d1106f25-4529-455c-9f9e-592530101d68">
 <img width="725" alt="Screenshot 2024-09-05 at 22 32 57" src="https://github.com/user-attachments/assets/333f16b8-1aae-4e31-8a92-63312ff430a7">
